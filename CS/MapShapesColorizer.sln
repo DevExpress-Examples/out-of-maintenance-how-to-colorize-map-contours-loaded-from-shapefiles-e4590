@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapShapesColorizer", "MapShapesColorizer\MapShapesColorizer.csproj", "{2D0E6BD4-B176-4EF4-9BCB-D686C183B1F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapShapesColorizer.Web", "MapShapesColorizer.Web\MapShapesColorizer.Web.csproj", "{D3AF6A80-3FDC-48DF-B326-F35EB98C6514}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D0E6BD4-B176-4EF4-9BCB-D686C183B1F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D0E6BD4-B176-4EF4-9BCB-D686C183B1F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D0E6BD4-B176-4EF4-9BCB-D686C183B1F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D0E6BD4-B176-4EF4-9BCB-D686C183B1F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3AF6A80-3FDC-48DF-B326-F35EB98C6514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AF6A80-3FDC-48DF-B326-F35EB98C6514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AF6A80-3FDC-48DF-B326-F35EB98C6514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AF6A80-3FDC-48DF-B326-F35EB98C6514}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
