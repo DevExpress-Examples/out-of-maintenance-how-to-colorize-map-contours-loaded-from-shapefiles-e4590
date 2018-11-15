@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/MapShapesColorizer/MainPage.xaml) (VB: [MainPage.xaml](./VB/MapShapesColorizer/MainPage.xaml))
+<!-- default file list end -->
 # How to colorize map contours loaded from Shapefiles
 
 
