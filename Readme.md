@@ -3,7 +3,7 @@
 
 * [ColorGenerator.cs](./CS/ColorizeMapShapes/ColorGenerator.cs) (VB: [ColorGenerator.vb](./VB/ColorizeMapShapes/ColorGenerator.vb))
 * [MainPage.xaml](./CS/ColorizeMapShapes/MainPage.xaml) (VB: [MainPage.xaml](./VB/ColorizeMapShapes/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/ColorizeMapShapes/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/ColorizeMapShapes/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/ColorizeMapShapes/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/ColorizeMapShapes/MainPage.xaml.vb))
 * [RangeColor.cs](./CS/ColorizeMapShapes/RangeColor.cs) (VB: [RangeColor.vb](./VB/ColorizeMapShapes/RangeColor.vb))
 <!-- default file list end -->
 # How to colorize map contours loaded from Shapefiles
