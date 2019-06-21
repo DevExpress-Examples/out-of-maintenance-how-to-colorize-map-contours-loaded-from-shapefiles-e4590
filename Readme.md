@@ -7,6 +7,9 @@
 * [RangeColor.cs](./CS/ColorizeMapShapes/RangeColor.cs) (VB: [RangeColor.vb](./VB/ColorizeMapShapes/RangeColor.vb))
 <!-- default file list end -->
 # How to colorize map contours loaded from Shapefiles
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4590)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to paint each map contour in a specific color depending on population data from Shapefiles (<strong>Countries.dbf</strong>, <strong>Countries.shp</strong>).</p><p><br />
