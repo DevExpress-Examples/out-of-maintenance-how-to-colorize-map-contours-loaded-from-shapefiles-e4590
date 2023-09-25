@@ -1,7 +1,0 @@
-﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
-             x:Class="MapShapesColorizer.App" xmlns:my="clr-namespace:System;assembly=mscorlib">
-    <Application.Resources>
-    <my:String x:Key="DevExpress.Xpf.License">8D-59-D2-B2-94-7B-1E-C9-69-6D-C4-62-EC-E0-B6-23-40-1F-F0-EF</my:String>
-  </Application.Resources>
-</Application>
